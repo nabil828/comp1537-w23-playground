@@ -1,0 +1,17 @@
+* {}
+
+
+#p1 {
+  background-color: tomato;
+}
+
+#p2 {
+  background-color: crimson;
+}
+
+
+
+/* add colored border class */
+.border {
+  border: 5px solid black;
+}

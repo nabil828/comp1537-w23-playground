@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <!-- import jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="code.js"></script>
+
+  <style>
+    .green {
+      background-color: greenyellow;
+    }
+
+    .blue {
+      background-color: aqua;
+    }
+
+    .tomato {
+      background-color: tomato;
+    }
+
+    .yellow {
+      background-color: darkgoldenrod;
+    }
+  </style>
+</head>
+
+<body>
+
+  <label for="op1"> Enter First Operand</label>
+  <input type="text" id="op1" value="2">
+  <br>
+  <label for="op2"> Enter Second Operand</label>
+  <input type="text" id="op2" value="5">
+  <br>
+
+  <button id="addBtn"> + </button>
+  <button id="subBtn"> - </button>
+  <button id="mulBtn"> * </button>
+  <button id="divBtn"> / </button>
+
+  <p id="result"></p>
+
+  <h1>History</h1>
+  <div id="history"></div>
+
+</body>
+
+</html>
