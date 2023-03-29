@@ -1,0 +1,13 @@
+- I. Introduction
+  - A. What is MongoDB? @done
+
+- II. Getting started with MongoDB
+  - A. Installation @done
+  - B. Starting the MongoDB server @done
+  - C. Connecting to MongoDB @done
+
+- III. CRUD Operations in MongoDB
+  - A. Inserting Data @done
+  - B. Querying Data @done
+  - C. Updating Data @done
+  - D. Deleting Data @done

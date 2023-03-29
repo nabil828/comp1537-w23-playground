@@ -1,0 +1,16 @@
+- I. Introduction to Mongoose
+  - A. What is Mongoose?
+  - B. Advantages of using Mongoose
+  - C. How Mongoose works with MongoDB
+
+- II. Getting Started with Mongoose
+  - A. Installation
+  - B. Connecting to MongoDB
+  - C. Defining a Mongoose schema
+  - D. Creating a Mongoose model
+
+- III. CRUD Operations with Mongoose
+  - A. Creating a new document
+  - B. Reading documents
+  - C. Updating documents
+  - D. Deleting documents

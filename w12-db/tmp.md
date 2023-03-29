@@ -1,0 +1,11 @@
+- Q1 Find the male unicorns weigh  more than 700 pounds
+- Q2 Find the unicorns that have no  vampire field
+- Q3 Find the unicorns that like apples  or oranges
+- Q4 Find the female unicorns that  either love apples or weigh less than  500 pounds
+- Q5 Decrease unicorn Pilot’s number  of vampires by 2
+- Q6 Add “sugar” to the list of food  unicorn Aurora loves to eat
+- Q7 Give all of the unicorns vaccine  (set vaccinated to be true)
+- Q8 Sort the unicorns based on  weights decreasingly
+- Q9 Sort the unicorns based on the  names increasingly, then the number  of vampires decreasingly
+- Q10 Get the second and third  heaviest unicorns
+- Q11 Count the number of unicorns  who have more than 50 vampires
